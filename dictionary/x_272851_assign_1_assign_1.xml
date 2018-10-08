@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Assign 1" max_length="40" name="x_272851_assign_1_assign_1" type="collection">
+    <element audit="true" label="Assign 1" max_length="40" name="x_272851_assign_1_assign_1" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Phone id" max_length="40" name="number" read_only="true" type="string"/>
         <element label="3D touch?" max_length="40" name="u_3d_touch" type="boolean"/>
         <element label="Augmented reality?" max_length="40" name="u_augmented_reality" type="boolean"/>
-        <element attributes="edge_encryption_enabled=true" label="Battery" max_length="40" name="u_battery" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Battery capacity" max_length="40" name="u_battery_capacity" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Battery power rating" max_length="40" name="u_battery_power_rating" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Battery type" max_length="40" name="u_battery_type" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Bluetooth version" max_length="40" name="u_bluetooth_version" type="string">
             <choice>
@@ -16,7 +14,6 @@
                 <element inactive_on_update="false" label="5" sequence="4" value="5"/>
             </choice>
         </element>
-        <element label="New True/False" max_length="40" name="u_boolean_4" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Brand" max_length="40" name="u_brand" type="string">
             <choice>
                 <element inactive_on_update="false" label="Apple" sequence="0" value="apple"/>
@@ -27,7 +24,6 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Build" max_length="40" name="u_build" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Chipset" max_length="40" name="u_chipset" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Color" max_length="40" name="u_color" type="string">
             <choice>
                 <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
@@ -50,16 +46,12 @@
         <element attributes="edge_encryption_enabled=true" label="Front camera features" max_length="40" name="u_front_camera_features" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Front camera flash" max_length="40" name="u_front_camera_flash" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Front camera resolution" max_length="40" name="u_front_camera_resolution" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Front zoom" max_length="40" name="u_front_zoom" type="string"/>
         <element label="Full HD recording?" max_length="40" name="u_full_hd_recording" type="boolean"/>
-        <element label="New Duration" max_length="40" name="u_glide_duration_1" type="glide_duration"/>
         <element label="GPS?" max_length="40" name="u_gps" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="GPU" max_length="40" name="u_gpu" type="string"/>
         <element label="HD recording?" max_length="40" name="u_hd_recording" type="boolean"/>
         <element label="Height (in mm)" max_length="40" name="u_height" type="integer"/>
-        <element label="New HTML" max_length="65536" name="u_html_48" type="html"/>
         <element label="RAM" max_length="40" name="u_integer_18" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_46" type="journal"/>
         <element label="Launch date" max_length="40" name="u_launch_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Model name" max_length="40" name="u_model_name" type="string"/>
         <element label="Multi touch?" max_length="40" name="u_multi_touch" type="boolean"/>
@@ -86,9 +78,6 @@
                 <element inactive_on_update="false" label="1 TB" sequence="5" value="1_tb"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Rear camera resolution" max_length="40" name="u_string_10" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Rear zoom" max_length="40" name="u_string_12" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_31" type="string"/>
         <element label="Talk time" max_length="40" name="u_talk_time" type="glide_duration"/>
         <element label="Thickness (in mm)" max_length="40" name="u_thickness" type="integer"/>
         <element label="Touch screen?" max_length="40" name="u_touch_screen" type="boolean"/>
@@ -103,7 +92,6 @@
                 <element inactive_on_update="false" label="2 years" sequence="3" value="2_years"/>
             </choice>
         </element>
-        <element label="Waterproof?" max_length="40" name="u_waterproof" type="boolean"/>
         <element label="Water resistant?" max_length="40" name="u_water_resistant" type="boolean"/>
         <element label="Weight (in gms)" max_length="40" name="u_weight" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="What's in the box?" max_length="200" name="u_whats_in_the_box" type="string"/>
@@ -115,7 +103,6 @@
                 <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
-        <element attributes="preview_selector=true,preview_first=true,is_multi_text=true" label="New Wiki" max_length="65536" name="u_wiki_text_47" type="wiki_text"/>
         <element label="Wireless charging?" max_length="40" name="u_wireless_charging" type="boolean"/>
     </element>
 </database>
