@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_brand" table="x_272851_assign_1_assign_1" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apple</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5586f41374d23003f44036973990ec4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:07:57</sys_updated_on>
+            <value>apple</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Samsung</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29586f41374d23003f44036973990ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:07:57</sys_updated_on>
+            <value>samsung</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Blackberry</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5586f41374d23003f44036973990ec6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:07:57</sys_updated_on>
+            <value>blackberry</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>One Plus</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25586f41374d23003f44036973990ec7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:07:57</sys_updated_on>
+            <value>one plus</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_brand</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vivo</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1586f41374d23003f44036973990ec8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:07:57</sys_updated_on>
+            <value>vivo</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_brand</element>
+            <name>x_272851_assign_1_assign_1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:07:57</sys_created_on>
+            <sys_id>21586f41374d23003f44036973990ec5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_brand</sys_name>
+            <sys_package display_value="Assign 1" source="x_272851_assign_1">74fd9b89370d23003f44036973990eda</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Assign 1">74fd9b89370d23003f44036973990eda</sys_scope>
+            <sys_update_name>sys_choice_x_272851_assign_1_assign_1_u_brand</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:07:57</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

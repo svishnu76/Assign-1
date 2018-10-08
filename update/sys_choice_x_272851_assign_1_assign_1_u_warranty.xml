@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_warranty" table="x_272851_assign_1_assign_1" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_warranty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 months</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:10:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9d8a381374d23003f44036973990e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:10:06</sys_updated_on>
+            <value>3_months</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_warranty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>6 months</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:10:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0dd8a381374d23003f44036973990e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:10:06</sys_updated_on>
+            <value>6_months</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_warranty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 year</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:10:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89d8a381374d23003f44036973990e92</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:10:06</sys_updated_on>
+            <value>1_year</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_warranty</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 years</label>
+            <language>en</language>
+            <name>x_272851_assign_1_assign_1</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:10:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>09d8a381374d23003f44036973990e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:10:06</sys_updated_on>
+            <value>2_years</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_warranty</element>
+            <name>x_272851_assign_1_assign_1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 07:10:06</sys_created_on>
+            <sys_id>05d8a381374d23003f44036973990e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_warranty</sys_name>
+            <sys_package display_value="Assign 1" source="x_272851_assign_1">74fd9b89370d23003f44036973990eda</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Assign 1">74fd9b89370d23003f44036973990eda</sys_scope>
+            <sys_update_name>sys_choice_x_272851_assign_1_assign_1_u_warranty</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 07:10:06</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
