@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_exchange" table="x_272851_assign_1_assign_1">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_front_camera_flash" table="x_272851_assign_1_assign_1">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Exchange?</column_label>
+        <column_label>Front camera flash</column_label>
         <comments/>
         <create_roles/>
-        <default_value>false</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -22,12 +22,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_exchange</element>
+        <element>u_front_camera_flash</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">boolean</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_272851_assign_1_assign_1</name>
@@ -47,16 +47,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-10-08 07:14:03</sys_created_on>
-        <sys_id>3eb9eb81374d23003f44036973990e0e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Exchange?</sys_name>
+        <sys_created_on>2018-10-08 12:56:07</sys_created_on>
+        <sys_id>e9083891370163003f44036973990ef9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Front camera flash</sys_name>
         <sys_package display_value="Assign 1" source="x_272851_assign_1">74fd9b89370d23003f44036973990eda</sys_package>
         <sys_policy/>
         <sys_scope display_value="Assign 1">74fd9b89370d23003f44036973990eda</sys_scope>
-        <sys_update_name>sys_dictionary_x_272851_assign_1_assign_1_u_exchange</sys_update_name>
+        <sys_update_name>sys_dictionary_x_272851_assign_1_assign_1_u_front_camera_flash</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-08 10:17:53</sys_updated_on>
+        <sys_updated_on>2018-10-08 12:56:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

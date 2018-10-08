@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Features" section_id="9533941d378d23003f44036973990e76" sys_domain="global" table="x_272851_assign_1_assign_1" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_face_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>c755d195374163003f44036973990e38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fingerprint_sensor</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4b55d195374163003f44036973990e38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_touch_screen</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>cb55d195374163003f44036973990e38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_multi_touch</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4f55d195374163003f44036973990e38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_3d_touch</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>cf55d195374163003f44036973990e38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_virtual_assistant</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4355d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_augmented_reality</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>c355d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dual_sim</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4755d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>c755d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_stereo_speaker</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4b55d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_external_storage</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>cb55d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gps</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4f55d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wireless_charging</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>cf55d195374163003f44036973990e39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quick_charging</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4355d195374163003f44036973990e3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_water_resistant</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>c355d195374163003f44036973990e3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dust_resistant</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 15:04:17</sys_created_on>
+            <sys_id>4755d195374163003f44036973990e3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 15:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Features</caption>
+            <header>false</header>
+            <name>x_272851_assign_1_assign_1</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 10:15:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9533941d378d23003f44036973990e76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Features</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Assign 1" source="x_272851_assign_1">74fd9b89370d23003f44036973990eda</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Assign 1">74fd9b89370d23003f44036973990eda</sys_scope>
+            <sys_update_name>sys_ui_section_9533941d378d23003f44036973990e76</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 10:15:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

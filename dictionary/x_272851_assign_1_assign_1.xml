@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Assign 1" max_length="40" name="x_272851_assign_1_assign_1" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Phone id" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="3D touch?" max_length="40" name="u_3d_touch" type="boolean"/>
+        <element label="Augmented reality?" max_length="40" name="u_augmented_reality" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Battery" max_length="40" name="u_battery" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Battery capacity" max_length="40" name="u_battery_capacity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Battery power rating" max_length="40" name="u_battery_power_rating" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Battery type" max_length="40" name="u_battery_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Bluetooth version" max_length="40" name="u_bluetooth_version" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="New True/False" max_length="40" name="u_boolean_4" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Brand" max_length="40" name="u_brand" type="string">
             <choice>
                 <element inactive_on_update="false" label="Apple" sequence="0" value="apple"/>
@@ -10,6 +26,8 @@
                 <element inactive_on_update="false" label="Vivo" sequence="4" value="vivo"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Build" max_length="40" name="u_build" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Chipset" max_length="40" name="u_chipset" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Color" max_length="40" name="u_color" type="string">
             <choice>
                 <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
@@ -17,16 +35,47 @@
                 <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Connector" max_length="40" name="u_connector" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CPU" max_length="40" name="u_cpu" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="u_description" type="string"/>
-        <element label="Exchange" max_length="40" name="u_exchange" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Digital Zoom" max_length="40" name="u_digital_zoom" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Display" max_length="40" name="u_display" type="string"/>
+        <element label="Dual primary camera" max_length="40" name="u_dual_primary_camera" type="boolean"/>
+        <element label="Dual sim?" max_length="40" name="u_dual_sim" type="boolean"/>
+        <element label="Dust resistant?" max_length="40" name="u_dust_resistant" type="boolean"/>
+        <element label="Exchange?" max_length="40" name="u_exchange" type="boolean"/>
+        <element label="External storage?" max_length="40" name="u_external_storage" type="boolean"/>
+        <element label="Face id?" max_length="40" name="u_face_id" type="boolean"/>
+        <element label="Fingerprint sensor?" max_length="40" name="u_fingerprint_sensor" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Front camera features" max_length="40" name="u_front_camera_features" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Front camera flash" max_length="40" name="u_front_camera_flash" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Front camera resolution" max_length="40" name="u_front_camera_resolution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Front zoom" max_length="40" name="u_front_zoom" type="string"/>
+        <element label="Full HD recording?" max_length="40" name="u_full_hd_recording" type="boolean"/>
         <element label="New Duration" max_length="40" name="u_glide_duration_1" type="glide_duration"/>
+        <element label="GPS?" max_length="40" name="u_gps" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="GPU" max_length="40" name="u_gpu" type="string"/>
+        <element label="HD recording?" max_length="40" name="u_hd_recording" type="boolean"/>
+        <element label="Height (in mm)" max_length="40" name="u_height" type="integer"/>
+        <element label="New HTML" max_length="65536" name="u_html_48" type="html"/>
+        <element label="RAM" max_length="40" name="u_integer_18" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_46" type="journal"/>
         <element label="Launch date" max_length="40" name="u_launch_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Model name" max_length="40" name="u_model_name" type="string"/>
+        <element label="Multi touch?" max_length="40" name="u_multi_touch" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Network type" max_length="40" name="u_network_type" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Official link" max_length="1024" name="u_official_link" type="url"/>
         <element attributes="edge_encryption_enabled=true" label="Operating system" max_length="40" name="u_operating_system" type="string"/>
         <element label="Pics" max_length="40" name="u_pics" type="file_attachment"/>
         <element attributes="omit_sys_original=true" default="0" label="Price" max_length="20" name="u_price" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary camera features" max_length="40" name="u_primary_camera_features" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary camera flash" max_length="40" name="u_primary_camera_flash" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary camera resolution" max_length="40" name="u_primary_camera_resolution" type="string"/>
+        <element label="Quick charging?" max_length="40" name="u_quick_charging" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Screen resolution" max_length="40" name="u_screen_resolution" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Screen size" max_length="40" name="u_screen_size" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Short description" max_length="100" name="u_short_description" type="string"/>
+        <element label="Stereo Speaker?" max_length="40" name="u_stereo_speaker" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Storage" max_length="40" name="u_storage" type="string">
             <choice>
                 <element inactive_on_update="false" label="32 GB" sequence="0" value="32_gb"/>
@@ -37,7 +86,15 @@
                 <element inactive_on_update="false" label="1 TB" sequence="5" value="1_tb"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Rear camera resolution" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rear zoom" max_length="40" name="u_string_12" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_31" type="string"/>
+        <element label="Talk time" max_length="40" name="u_talk_time" type="glide_duration"/>
+        <element label="Thickness (in mm)" max_length="40" name="u_thickness" type="integer"/>
+        <element label="Touch screen?" max_length="40" name="u_touch_screen" type="boolean"/>
         <element label="Units available" max_length="40" name="u_units_available" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Video recording resolution" max_length="40" name="u_video_recording_resolution" type="string"/>
+        <element label="Virtual assistant?" max_length="40" name="u_virtual_assistant" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Warranty" max_length="40" name="u_warranty" type="string">
             <choice>
                 <element inactive_on_update="false" label="3 months" sequence="0" value="3_months"/>
@@ -46,5 +103,19 @@
                 <element inactive_on_update="false" label="2 years" sequence="3" value="2_years"/>
             </choice>
         </element>
+        <element label="Waterproof?" max_length="40" name="u_waterproof" type="boolean"/>
+        <element label="Water resistant?" max_length="40" name="u_water_resistant" type="boolean"/>
+        <element label="Weight (in gms)" max_length="40" name="u_weight" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="What's in the box?" max_length="200" name="u_whats_in_the_box" type="string"/>
+        <element label="Width (in mm)" max_length="40" name="u_width" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Wi-Fi version" max_length="40" name="u_wifi_version" type="string">
+            <choice>
+                <element inactive_on_update="false" label="802.11 ac" sequence="0" value="802.11 ac"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="preview_selector=true,preview_first=true,is_multi_text=true" label="New Wiki" max_length="65536" name="u_wiki_text_47" type="wiki_text"/>
+        <element label="Wireless charging?" max_length="40" name="u_wireless_charging" type="boolean"/>
     </element>
 </database>

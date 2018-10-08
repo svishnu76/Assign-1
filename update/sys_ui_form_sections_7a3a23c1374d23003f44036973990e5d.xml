@@ -17,16 +17,58 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-08 07:16:14</sys_created_on>
+            <sys_created_on>2018-10-08 12:42:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7a3a23c1374d23003f44036973990e60</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>d3f4f811370163003f44036973990e21</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_272851_assign_1_assign_1" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">7a3a23c1374d23003f44036973990e5d</sys_ui_form>
-            <sys_ui_section caption="About" display_value="About" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">3a3a23c1374d23003f44036973990e5c</sys_ui_section>
+            <sys_ui_section caption="Body" display_value="Body" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">5ff4f811370163003f44036973990e1d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-08 07:16:14</sys_updated_on>
+            <sys_updated_on>2018-10-08 12:42:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 10:16:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a183d81d378d23003f44036973990ea5</sys_id>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_272851_assign_1_assign_1" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">7a3a23c1374d23003f44036973990e5d</sys_ui_form>
+            <sys_ui_section caption="Specs" display_value="Specs" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">d983d81d378d23003f44036973990e7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 12:42:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 12:07:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8bcca8d937cd23003f44036973990e81</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_272851_assign_1_assign_1" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">7a3a23c1374d23003f44036973990e5d</sys_ui_form>
+            <sys_ui_section caption="Camera" display_value="Camera" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">c7cc68d937cd23003f44036973990e2e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 12:42:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 10:15:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1133941d378d23003f44036973990e7a</sys_id>
+            <sys_mod_count>12</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_272851_assign_1_assign_1" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">7a3a23c1374d23003f44036973990e5d</sys_ui_form>
+            <sys_ui_section caption="Features" display_value="Features" name="x_272851_assign_1_assign_1" sys_domain="global" view="Default view">9533941d378d23003f44036973990e76</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 14:59:36</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_272851_assign_1_assign_1</name>
