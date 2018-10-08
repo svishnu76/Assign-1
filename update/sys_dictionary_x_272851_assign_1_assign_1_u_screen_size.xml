@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-08 10:27:49</sys_created_on>
-        <sys_id>5d16d49d378d23003f44036973990e91</sys_id>
+        <sys_id>65e71d19374163003f44036973990ea4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Screen size</sys_name>
         <sys_package display_value="Assign 1" source="x_272851_assign_1">74fd9b89370d23003f44036973990eda</sys_package>
         <sys_policy/>
         <sys_scope display_value="Assign 1">74fd9b89370d23003f44036973990eda</sys_scope>
         <sys_update_name>sys_dictionary_x_272851_assign_1_assign_1_u_screen_size</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-08 10:27:49</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-08 15:15:36</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
