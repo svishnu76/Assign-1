@@ -26,9 +26,14 @@
         <element attributes="edge_encryption_enabled=true" label="Build" max_length="40" name="u_build" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Color" max_length="40" name="u_color" type="string">
             <choice>
-                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
-                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
-                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Blue" sequence="0" value="blue"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Gold" sequence="1" value="gold"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Red" sequence="2" value="red"/>
+                <element inactive_on_update="false" label="Silver" sequence="3" value="silver"/>
+                <element inactive_on_update="false" label="Space grey" sequence="4" value="space_grey"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Connector" max_length="40" name="u_connector" type="string"/>
