@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_272851_assign_1.updateSecondaryTable</api_name>
+        <client_callable>false</client_callable>
+        <description>Function to copy the data from the primary table to the secondary table</description>
+        <name>updateSecondaryTable</name>
+        <script><![CDATA[function updateSecondaryTable(tableName) {
+	var columnLabelList=[];
+	var glideRecord = new GlideRecord('sys_dictionary');
+	glideRecord.addQuery('name',tableName);
+	glideRecord.query();
+	
+	//Get all the column label of the table and store it in an array
+	while(glideRecord.next())
+		{
+		if (!((glideRecord.element.toString().startsWith('sys_')) | (glideRecord.element.toString()=='number') )){
+			columnLabelList.push(glideRecord.element.toString());
+			
+		}
+	}
+	
+	// Create a gliderecord object for the table in which the data is to inserted 
+	glideRecord =new GlideRecord(tableName);
+	
+	//Insert the values from the primary table to the secondary table
+	for(var i=0; i<columnLabelList.length; i++)
+		{
+			glideRecord.setValue(columnLabelList[i],current.getValue(columnLabelList[i]));
+			gs.info(columnLabelList[i]);		
+		}
+	glideRecord.insert();
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-10 05:06:32</sys_created_on>
+        <sys_id>8daf15fd37c1a3003f44036973990eb4</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>updateSecondaryTable</sys_name>
+        <sys_package display_value="Assign 1" source="x_272851_assign_1">74fd9b89370d23003f44036973990eda</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Assign 1">74fd9b89370d23003f44036973990eda</sys_scope>
+        <sys_update_name>sys_script_include_8daf15fd37c1a3003f44036973990eb4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-10 05:44:51</sys_updated_on>
+    </sys_script_include>
+</record_update>
